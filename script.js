@@ -31,19 +31,26 @@
 
      function barcelona() {
         document.getElementById("imagem").src="barcelona.png";
+        imagem.style.border= '15px solid';
+        imagem.style.borderImage = "url(https://st3.depositphotos.com/1816831/17630/i/600/depositphotos_176303658-stock-photo-colors-barcelona-illustration.jpg) 30 round ";
      }
 
      function city() {
         document.getElementById("imagem").src="city.png";
+        imagem.style.border= '15px solid';
+        imagem.style.borderImage = "url(https://www.vogue.pt/media/content/english-version-fashion-to-be-continued-fun-facts-blue.jpg) 30 round";
      }
 
      function liverpool() {
         document.getElementById("imagem").src="liverpool.png";
+        imagem.style.border= '15px solid';
+        imagem.style.borderImage = "url(https://static.vecteezy.com/ti/vetor-gratis/t2/3421390-minimal-futuristic-abstract-gradient-red-stripes-background-design-gratis-vetor.jpg) 30 round";
      }
 
      function allnasser() {
-        document.getElementById("imagem").src="allnasser.png"
-      ;
+        document.getElementById("imagem").src="allnasser.png";
+        imagem.style.border= '15px solid';
+        imagem.style.borderImage = "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUZ88IbtHN7qlQrZlpKNaodG3CCYPxfliWbTeQn5a8C2sqKjbtw-5FNeKJn_IN-9Vbuk&usqp=CAU) 30 round";        
         
      }
 
@@ -56,6 +63,8 @@
 
      function psg() {
         document.getElementById("imagem").src="psg.png";
+        imagem.style.border= '15px solid';
+        imagem.style.borderImage = "url(https://pbs.twimg.com/media/ES7rKJ9XYAA5i2l.jpg:large) 30 round";
      }
 
 
